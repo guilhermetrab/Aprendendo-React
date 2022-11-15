@@ -11,3 +11,4 @@ Curso de React: Criando componentes no React- #4
 Curso de React: Trabalhando com props- #5
 Curso de React: Inserindo CSS no React(CSS modules)- #6
 Curso de React: Utilizando React fragments- #7
+Curso de React: Avançando em props - #08
