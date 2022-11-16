@@ -13,3 +13,4 @@ Curso de React: Inserindo CSS no React(CSS modules)- #6
 Curso de React: Utilizando React fragments- #7
 Curso de React: Avançando em props - #08
 Curso de React: Eventos no React (onClick, onChange e onSubmit) - #09
+Curso de React: useState na prática - #10
