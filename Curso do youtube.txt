@@ -20,3 +20,4 @@ Curso de React: Renderização de listas - #13
 Curso de React: State Lift - #14
 Curso de React: Implementando o React Router - #15
 Curso de React: React Icons - #16
+Curso React: Criando o projeto do curso - #17
