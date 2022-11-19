@@ -23,3 +23,5 @@ Curso de React: React Icons - #16
 Curso de React: Criando o projeto do curso - #17
 Curso de React: Estruturando o projeto - #18
 Curso de React: Navbar e footer - #19
+Curso de React: Criando a home - #20
+
