@@ -25,4 +25,5 @@ Curso de React: Estruturando o projeto - #18
 Curso de React: Navbar e footer - #19
 Curso de React: Criando a home - #20
 Curso de React: Página para o formulário de projeto - #21
-
+Curso de React: Componentização de formulário - #22
+Curso de React: Conectando com API pelo React - #23
