@@ -27,3 +27,8 @@ Curso de React: Criando a home - #20
 Curso de React: Página para o formulário de projeto - #21
 Curso de React: Componentização de formulário - #22
 Curso de React: Conectando com API pelo React - #23
+Curso de React: Inserindo dados no banco via API - #24
+
+
+
+
