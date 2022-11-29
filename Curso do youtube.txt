@@ -26,8 +26,8 @@ Curso de React: Navbar e footer - #19
 Curso de React: Criando a home - #20
 Curso de React: Página para o formulário de projeto - #21
 Curso de React: Componentização de formulário - #22
-Curso de React: Conectando com API pelo React - #23
-Curso de React: Inserindo dados no banco via API - #24
+Curso de React: Conectando com API pelo React - #23(componetes difíceis foram inseridos aqui) 
+Curso de React: Inserindo dados no banco via API - #24( o nível de dificuldade subiu muito)
 
 
 
