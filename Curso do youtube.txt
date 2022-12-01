@@ -29,7 +29,8 @@ Curso de React: Componentização de formulário - #22
 Curso de React: Conectando com API pelo React - #23(componetes difíceis foram inseridos aqui) 
 Curso de React: Inserindo dados no banco via API - #24( o nível de dificuldade subiu muito)
 Curso de React: Criando Dashboard - #26
-
+Curso de React: Resgatando projetos do banco de dados - #27
+Curso de React: Criando componente de loader - #28
 
 
 

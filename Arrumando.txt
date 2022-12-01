@@ -1,0 +1,8 @@
+{!removeLoading && <Loading />}
+
+
+            setRemoveLoading(true)
+
+
+
+const [removeLoading, setRemoveLoading] = useState(false)
