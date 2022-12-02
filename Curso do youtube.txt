@@ -31,6 +31,7 @@ Curso de React: Inserindo dados no banco via API - #24( o nível de dificuldade 
 Curso de React: Criando Dashboard - #26
 Curso de React: Resgatando projetos do banco de dados - #27
 Curso de React: Criando componente de loader - #28
+Curso de React: Removendo projetos - #29
 
 
 
