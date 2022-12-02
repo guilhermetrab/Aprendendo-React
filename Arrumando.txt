@@ -1,8 +1,37 @@
-{!removeLoading && <Loading />}
+// last service
+        const lastService = project.services[project.services.length - 1]
 
+        lastService.id = uuidv4()
 
-            setRemoveLoading(true)
+        const lastServiceAddProjec = lastService.addProjec
 
+        const newAddProjec =parseFloat(project.addProjec) + parseFloat(lastServiceAddProjec)
 
+        //maximun value validation
 
-const [removeLoading, setRemoveLoading] = useState(false)
+        if(newAddProjec > parseFloat(project.budget)) {
+            setMessage('Orçamento ultrapassado, verifique o valor do serviço')
+            setType('error')
+            project.services.pop()
+            return false
+        }
+
+        //add service addProjec to project total cost
+
+        project.addProjec = newAddProjec
+
+        // update project
+
+        fetch (`http://localhost:5000/projects/${project.id}`, {
+            method: 'PATCH',
+            headers: {
+                'Content-Type' : 'application/json'
+            },
+            body: JSON.stringify(project),
+        })
+        .then((resp) => resp.json())
+        .then((data) => {
+            // exibir os serviços
+            console.log(data)
+        })
+        .catch((err)  => console.log(err))
